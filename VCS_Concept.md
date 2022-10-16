@@ -4,6 +4,8 @@ Git is a Version Control System. Ok, What is Version Control System? Before dire
 
  
 
+
+
 ### Problems
 
 - Problem#1 System Failure
@@ -77,7 +79,7 @@ Git is a Version Control System. Ok, What is Version Control System? Before dire
 
 Distributed version control systems contain multiple repositories. Each user has their own repository and working copy. Just committing your changes will not give others access to your changes.
 
-<img src="https://cdn-images-1.medium.com/max/800/1*2zuq_mShMaFAzTbcRttgyQ.png" alt="img" style="zoom:50%;" />
+<img src="https://cdn-images-1.medium.com/max/800/1*XXbzvIsJcidKQ9-B6t8VYQ.png" alt="img" style="zoom:50%;" />
 
  This is because commit will reflect those changes in your local repository and you need to push them in order to make them visible on the central repository. Similarly, When you update, you do not get others’ changes unless you have first pulled those changes into your repository. 
 
